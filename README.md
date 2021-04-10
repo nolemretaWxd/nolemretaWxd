@@ -6,4 +6,7 @@ You can reach me at:
 My social media:
  - Reddit: nolemretaWxd
 
-~~idk why i created my profile's readme for adding usernames of 2 accounts~~
+I primarly program in C# or in Python but I also know these languages:
+ - PHP
+ - CSS
+ - ~~scratch~~
