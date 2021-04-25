@@ -12,5 +12,6 @@ I primarly program in C# or in Python but I also know these languages:
  - Java (Spigot API)
  - ~~scratch~~
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolemretaWxd)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolemretaWxd)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nolemretaWxd&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=nolemretaW&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolemretaWxd&theme=radical" />
