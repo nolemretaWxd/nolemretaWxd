@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 You can reach me at:
- - Discord: nolemretaW ッ#2137
+ - Discord: nolemretaW#1986
 
 My social media:
  - Reddit: nolemretaWxd
