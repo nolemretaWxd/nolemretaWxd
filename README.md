@@ -15,7 +15,7 @@ Might learn some low level language like C or C++ in the future. Or assembly for
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 18.3 kB Used in GitHub's Storage 
  > 
 > 🏆 62 Contributions in the Year 2023
  > 
@@ -23,7 +23,7 @@ Might learn some low level language like C or C++ in the future. Or assembly for
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -85,5 +85,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2023 16:43:15 UTC
+ Last Updated on 06/06/2023 18:32:30 UTC
 <!--END_SECTION:waka-->
