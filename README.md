@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 You can reach me at:
- - Discord: nolemretaW#4096
+ - Discord: nolemretaW
  - Email: contact@nolemretaw.pl
  
 I primarly write code using C#. But I also somewhat know PHP, Python, and Node.js. Currently learning Rust.
