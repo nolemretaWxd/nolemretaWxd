@@ -4,7 +4,7 @@ You can reach me at:
  - Discord: nolemretaW
  - Email: contact@nolemretaw.pl
  
-I primarly write code using C#. But I also somewhat know PHP, Python, and Node.js. Currently learning Rust.
+I primarly write code using C#. But I also somewhat know PHP, Python, and Node.js.
 
 Might learn some low level language like C or C++ in the future. Or assembly for a simple CPU like MOS Technology 6502
  
