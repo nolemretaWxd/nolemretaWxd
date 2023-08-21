@@ -11,17 +11,17 @@ Might learn some low level language like C or C++ in the future. Or assembly for
 <p align="right"><img src="https://komarev.com/ghpvc/?username=nolemretaWxd&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="nolemretaWxd" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.4 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2023
+> 🏆 108 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -52,20 +52,20 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-C#                       4 hrs 31 mins       █████████████████████████   98.83 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+C#                       5 hrs 52 mins       █████████████████████████   99.10 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Rider                    4 hrs 34 mins       █████████████████████████   100.00 % 
+Rider                    5 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MelonEngine              4 hrs 34 mins       █████████████████████████   100.00 % 
+MelonEngine              5 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -81,5 +81,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2023 18:33:09 UTC
+ Last Updated on 21/08/2023 18:33:07 UTC
 <!--END_SECTION:waka-->
