@@ -4,10 +4,10 @@ You can reach me at:
  - Discord: nolemretaW
  - Email: contact@nolemretaw.pl
  
-I primarly write code using C#. But I also somewhat know PHP, Python, and Node.js.
-
+I primarly use C#. But I also somewhat know PHP, Python, and JS.
 Might learn some low level language like C or C++ in the future. Or assembly for a simple CPU like MOS Technology 6502
- 
+My OS of choice is Linux Mint 21.2 on my main machine, and Arch Linux running latest kernel on my laptop.
+
 <p align="right"><img src="https://komarev.com/ghpvc/?username=nolemretaWxd&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="nolemretaWxd" /></p>
 
 <!--START_SECTION:waka-->
