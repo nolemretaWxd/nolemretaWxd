@@ -17,11 +17,11 @@ Might learn some low level language like C or C++ in the future. Or assembly for
 
 > 📦 21.5 kB Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2023
+> 🏆 134 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -77,5 +77,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2023 18:32:57 UTC
+ Last Updated on 09/09/2023 18:33:13 UTC
 <!--END_SECTION:waka-->
