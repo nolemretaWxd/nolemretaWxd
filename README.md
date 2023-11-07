@@ -17,6 +17,8 @@ Might learn some low level language like C or C++ in the future. Or assembly for
 
 > 📦 33.0 kB Used in GitHub's Storage 
  > 
+> 🏆 140 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -79,5 +81,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2023 18:34:33 UTC
+ Last Updated on 07/11/2023 18:33:44 UTC
 <!--END_SECTION:waka-->
