@@ -11,8 +11,6 @@ Might learn some low level language like C or C++ in the future. Or assembly for
 <p align="right"><img src="https://komarev.com/ghpvc/?username=nolemretaWxd&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="nolemretaWxd" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2040%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 33.1 kB Used in GitHub's Storage 
@@ -52,16 +50,20 @@ Sunday                   49 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       22 mins             █████████████░░░░░░░░░░░░   50.78 % 
+XML                      20 mins             ████████████░░░░░░░░░░░░░   47.13 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Solution File            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aoc                      43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -77,5 +79,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:34:16 UTC
+ Last Updated on 06/12/2023 18:35:08 UTC
 <!--END_SECTION:waka-->
