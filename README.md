@@ -11,6 +11,8 @@ Might learn some low level language like C or C++ in the future. Or assembly for
 <p align="right"><img src="https://komarev.com/ghpvc/?username=nolemretaWxd&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="nolemretaWxd" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2024%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 33.1 kB Used in GitHub's Storage 
@@ -79,5 +81,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 18:35:08 UTC
+ Last Updated on 07/12/2023 18:35:15 UTC
 <!--END_SECTION:waka-->
