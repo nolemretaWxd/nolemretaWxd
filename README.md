@@ -52,16 +52,18 @@ Sunday                   49 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       41 mins             █████████████████████████   99.52 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MelonEngine              41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -77,5 +79,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2023 18:33:46 UTC
+ Last Updated on 18/12/2023 18:36:23 UTC
 <!--END_SECTION:waka-->
