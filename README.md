@@ -52,16 +52,19 @@ Sunday                   49 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       16 mins             ████████████████████████░   94.06 % 
+GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SharpBASIC               15 mins             ██████████████████████░░░   88.45 % 
+Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Compare-Checksum         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -77,5 +80,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2024 18:34:58 UTC
+ Last Updated on 13/01/2024 18:32:59 UTC
 <!--END_SECTION:waka-->
